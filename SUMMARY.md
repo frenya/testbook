@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Hyundai Home Page](README.md)
 
 ## Group 1
 
